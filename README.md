@@ -1,7 +1,11 @@
 # Git과 GitHub Study를 위한 프로젝트
 
 ## 1. 프로젝트 소개
+<<<<<<< HEAD
 자바 웹 개발을 주제로 Git과 GitHub Study를 위한 프로젝트
+=======
+자바 웹 개발을 주제로 Git과 GiHub Study를 위한 프로젝트
+>>>>>>> cf77da1204162e4a28115f36de1bfb38575c5e2f
 ___
 
 ## 2. 개발기간
@@ -15,7 +19,13 @@ ___
 ___
 
 ## 4. 개발환경
+<<<<<<< HEAD
 - JAVA 21
 - JDK 21.0.0
 - Tomcat 10.1
 
+=======
+- Java 21
+- JDK 21.0.0
+- Tomcat 10.1
+>>>>>>> cf77da1204162e4a28115f36de1bfb38575c5e2f
